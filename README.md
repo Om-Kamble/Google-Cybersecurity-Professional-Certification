@@ -34,4 +34,4 @@ Each directory holds the files for each of the courses in the certificate and th
   5. Assets, Threats, and Vulnerabilities
   6. Sound the Alarm: Detection and Response
   7. Automate Cybersecurity Tasks with Python
-  8. Put It to Work: Prepare for Cybersecurity Jobs (No files needed)
+  8. Put It to Work: Prepare for Cybersecurity Jobs
